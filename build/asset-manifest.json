@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.19d80398.js",
+    "static/media/hero-background.jpg": "/static/media/hero-background.7e5734b48bb9ae02eca2.jpg",
+    "static/media/whatsapp_icon.png": "/static/media/whatsapp_icon.7775836eca362c25b500.png",
+    "static/media/twitter_icon.png": "/static/media/twitter_icon.816979cd7ab248a2707c.png",
+    "static/media/youtube_icon.png": "/static/media/youtube_icon.4ad78c4004874a182b12.png",
+    "index.html": "/index.html",
+    "main.19d80398.js.map": "/static/js/main.19d80398.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.19d80398.js"
+  ]
+}
